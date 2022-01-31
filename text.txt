@@ -1,2 +1,2 @@
 here there is first line of code
-here there is thirds line of code
+here there is second line of code
